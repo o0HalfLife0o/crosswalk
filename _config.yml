@@ -1,0 +1,12 @@
+theme: jekyll-theme-minimal
+style: dir
+dir_spacification: "-"
+dir_links: false
+extensions:
+#  - .pdf
+#  - .md
+directories:
+  - releases
+truncate: 60
+html_link:
+  - .md
